@@ -1,4 +1,4 @@
-<h1>:wave:Hi,I'm JaeHwan</h1>
+<h1>:wave:Hi, I'm JaeHwan</h1>
 
 Email:polkmn7@naver.com
 
