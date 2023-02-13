@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Hi,I'm JaeHwanLee</h1>
+
+Email:polkmn7@naver.com
 
 <h2>My tech stack</h2>
 
